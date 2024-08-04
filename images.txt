@@ -1,3 +1,4 @@
+bitnami/minio:latest
 nginx
 mysql:8.0
 redis
